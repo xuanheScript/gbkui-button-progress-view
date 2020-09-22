@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.description = 'GBKUIButtonProgressView is an easy to use download progress button.'
   spec.homepage = 'https://github.com/Guidebook/gbkui-button-progress-view'
   spec.license = { type: 'MIT', file: 'LICENSE' }
-  spec.source = { git: 'https://github.com/Guidebook/gbkui-button-progress-view', tag: "v#{spec.version}" }
+  spec.source = { git: 'https://github.com/xuanheScript/gbkui-button-progress-view', tag: "v#{spec.version}" }
   spec.author = { 'Guidebook' => 'developers@guidebook.com', 'Pete Lada' => 'peter@guidebook.com', 'Mike Sprague' => 'mike@guidebook.com' }
 
   spec.platform = :ios, '8.0'
